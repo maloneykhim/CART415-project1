@@ -8,6 +8,8 @@ using UnityEngine.SceneManagement;
 public class GameController : MonoBehaviour
 {
 
+    AudioController audioController;
+
     float currentProgress = 0;
     float maxProgress = 20;
     [SerializeField] Image progressBar;
@@ -19,6 +21,14 @@ public class GameController : MonoBehaviour
     [SerializeField] float timeRemaining;
     [SerializeField] TMP_Text timeText;
 
+
+
+    private void Awake()
+    {
+
+        audioController = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioController>();
+
+    }
 
     void Start()
     {
@@ -32,14 +42,20 @@ public class GameController : MonoBehaviour
         {
 
             currentProgress += increment;
-            UpdateProgressAmount(maxProgress, currentProgress);
-            Debug.Log($"Current Progress: {currentProgress}");
+            audioController.PlaySFX();
+
             
         } else {
 
             currentProgress -= decrement;
-            UpdateProgressAmount(maxProgress, currentProgress);
+           
         }
+
+        // **Clamp progress between 0 and maxProgress**
+        currentProgress = Mathf.Clamp(currentProgress, 0, maxProgress);
+        UpdateProgressAmount();
+
+        Debug.Log($"Current Progress: {currentProgress}");
 
         // Game is not paused
         if(timeIsRunning)
@@ -72,22 +88,22 @@ public class GameController : MonoBehaviour
 
     
     // this needs more tuning there is something wrong
-    public void UpdateProgressAmount (float maxProgress, float currentProgress){
+    public void UpdateProgressAmount (){
 
-        if (currentProgress >= 0 && currentProgress <= maxProgress)
-        {
+        // if (currentProgress >= 0 && currentProgress <= maxProgress)
+        // {
             
             progressBar.fillAmount = currentProgress / maxProgress;
-        }
+      //  }
 
-        if (currentProgress > maxProgress) {
+        if (currentProgress == maxProgress) {
          
            Debug.Log($"you win!");
              SceneManager.LoadScene("Win");
            // win condition
         }
 
-        if (currentProgress < 0)
+        if (currentProgress == 0)
         {
             Debug.Log($"you lose!");
             // lose condition
