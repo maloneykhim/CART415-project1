@@ -1,0 +1,1667 @@
+fileFormatVersion: 2
+guid: dfe6b3e156762d948bddefec171766bb
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 35
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Good_girl_onPhone_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1768
+        width: 106
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65bca70995f16144a7b1725bc0c49fd
+      internalID: -420828241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Good_girl_onPhone_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1768
+        width: 106
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a06f27fcc45d814aa09c9379ec2c3e2
+      internalID: -853755022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Good_girl_onPhone_2
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1768
+        width: 106
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292fa30d143cb0646945fb26576d8c59
+      internalID: -1170603248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Good_girl_onPhone_3
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1768
+        width: 106
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5730d2537dcf72842bef14e12041c65a
+      internalID: -336446418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Good_girl_onPhone_4
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 1768
+        width: 106
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1d1247d4364c7419d7ca6e14b44c8b
+      internalID: 1218673390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Good_girl_onPhone_5
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1768
+        width: 106
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8d0783d053a25439cee3a074e10e38
+      internalID: -1777336466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Good_girl_onPhone_6
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 1768
+        width: 106
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f4f2399db318744b27fc30e61b7a16
+      internalID: -686606186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Good_girl_onPhone_7
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 1768
+        width: 106
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a603d25d8fb7144497b521a41ad4497
+      internalID: -738684086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Good_girl_onPhone_8
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 1768
+        width: 106
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67c1f785d7d36c4eb406dff4eb8f004
+      internalID: 2035448725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Good_girl_onPhone_9
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1768
+        width: 106
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33121370709d2a4ebc37521b4723136
+      internalID: 348125185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Good_girl_onPhone_10
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 1768
+        width: 106
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c70eef8cacdb8458334c2cc98e52e0
+      internalID: -1407944587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Good_girl_onPhone_11
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1488
+        width: 106
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49906e3fc5da5a340a89d77f084d54c3
+      internalID: 290030072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Good_girl_onPhone_12
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1488
+        width: 106
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4b0ae2d8b34da4ca65207939192e72
+      internalID: 215601902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Good_girl_onPhone_13
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1488
+        width: 106
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f592f4e70b3848644af7bc7da5d7e9d1
+      internalID: -384478819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Good_girl_onPhone_14
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1488
+        width: 106
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db409e4c1d0e46428a7074f4d582ca3
+      internalID: -1449066152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Good_girl_onPhone_15
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 1488
+        width: 106
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c48bd620472094eb413e1ae88e7ee0
+      internalID: -1103395491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Good_girl_onPhone_16
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1488
+        width: 106
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285ec97c70baca3468a252b229fe2725
+      internalID: 1054048993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Good_girl_onPhone_17
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 1488
+        width: 106
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83bc7e3564411ca4eabe80d830f71f8b
+      internalID: 30127755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Good_girl_onPhone_18
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 1488
+        width: 106
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1118fb2363eb5d84992d0c516906893d
+      internalID: -1108939160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Good_girl_onPhone_19
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 1488
+        width: 106
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8328d1f4ee2616c42ba1400c37e50567
+      internalID: 1948013551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Good_girl_onPhone_20
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1488
+        width: 106
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8157f49805f2bbf478fd3653d27211a5
+      internalID: 570253614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Good_girl_onPhone_21
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 1488
+        width: 106
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0779b07cb3d796c488ac770db723c7e1
+      internalID: -1822955872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Good_girl_onPhone_22
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1208
+        width: 106
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d082d29b13749cf458d6bf4019a91d0b
+      internalID: 537469064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Good_girl_onPhone_23
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1208
+        width: 106
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1d2da825bc35a4ea4f72476c835f59
+      internalID: 241097454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Good_girl_onPhone_24
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1208
+        width: 106
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59e8338808c06d4493281c1b542bf95
+      internalID: 962238933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Good_girl_onPhone_25
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1208
+        width: 106
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00334b8e8b750714e9e3811bb80547ef
+      internalID: 1852172933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Good_girl_onPhone_26
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 1208
+        width: 106
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c0dbe713a26f54e948fd808eff380b
+      internalID: 1865972918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Good_girl_onPhone_27
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1208
+        width: 106
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d37b3a9f40e4bd4dafb6d2aea941f48
+      internalID: -620221312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Good_girl_onPhone_28
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 1208
+        width: 106
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5d73fad1282ed41acbf024c41f03a4
+      internalID: 1082312848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Good_girl_onPhone_29
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 1208
+        width: 106
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe1ff7a91c599c4dbb4aaf6a5073e66
+      internalID: 640259373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Good_girl_onPhone_30
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 1208
+        width: 106
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a75464f0fae3064987cf7ecd9525d95
+      internalID: 560881685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Good_girl_onPhone_31
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1208
+        width: 106
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d94e49a9d0cf90479a853ffd08b6c0c
+      internalID: 934100990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Good_girl_onPhone_32
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 1208
+        width: 106
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334fc26e1758bcd4d95e9334193cce3c
+      internalID: 214907142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Good_girl_onPhone_33
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 928
+        width: 106
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2846f713e2b36ed45bfae29762a64595
+      internalID: 1855465723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Good_girl_onPhone_34
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 928
+        width: 106
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff14af60189c474ba7d26864199e269
+      internalID: -515073092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Good_girl_onPhone_35
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 928
+        width: 106
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af44cebf7999b2f4fbc2fc3f7354699d
+      internalID: 974854769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Good_girl_onPhone_36
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 928
+        width: 106
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12cd41834ce594f40baf49e1d557045d
+      internalID: 283216508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Good_girl_onPhone_37
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 928
+        width: 106
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ab7dcacfd1ca040a1a176794b8f358
+      internalID: 1283877163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Good_girl_onPhone_38
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 928
+        width: 106
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed695d616f7b4ae409dd66f970c6a076
+      internalID: -802948889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Good_girl_onPhone_39
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 928
+        width: 106
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5d654d5277bd9439dc464994ce75b9
+      internalID: -1033286157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Good_girl_onPhone_40
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 928
+        width: 106
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2c832da3cba254db077101349486c5
+      internalID: -1853068103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Good_girl_onPhone_41
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 928
+        width: 106
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9024411aa7cd5d640b1cd15bed34bb9a
+      internalID: -596711287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Good_girl_onPhone_42
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 928
+        width: 106
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31c5fd0a3a18cf45bf92847bf2bf8fc
+      internalID: -1586344993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Good_girl_onPhone_43
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 928
+        width: 106
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80e62481374cf543b413ce558e4ac9f
+      internalID: -1601636143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Good_girl_onPhone_44
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 648
+        width: 105
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50871e46f421014d9e0caa06110281c
+      internalID: 824368981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Good_girl_onPhone_45
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 648
+        width: 105
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc55caadf8049d940a41974d8946f07e
+      internalID: -480233298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Good_girl_onPhone_46
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 648
+        width: 106
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c540d70c67eb8b438e257cb517c12d4
+      internalID: 2121718960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Good_girl_onPhone_47
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 648
+        width: 105
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95be8a3a4fc71e04c81508016889ae3a
+      internalID: -2043928965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Good_girl_onPhone_48
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 648
+        width: 105
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7839a5cddd30249a98c8259549a762
+      internalID: 1729418857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Good_girl_onPhone_49
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 648
+        width: 105
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d05b023a9c4d594a85d714632061141
+      internalID: -1853157314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Good_girl_onPhone_50
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 648
+        width: 106
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28296aa663a08f44918737e9baf4d22
+      internalID: 579536429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Good_girl_onPhone_51
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 648
+        width: 106
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8155ab075cdebd47a4833b7100c79b6
+      internalID: -406409012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Good_girl_onPhone_52
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 648
+        width: 106
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74d867333b36b9458aa19579daa1a03
+      internalID: -771048606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Good_girl_onPhone_53
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 648
+        width: 106
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2bd8ade7ed03f142a9d65bfbc93648b
+      internalID: -1343086519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Good_girl_onPhone_54
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 648
+        width: 106
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b2a739e3e95de42a50a70f8ffcac9b
+      internalID: 1310824473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Good_girl_onPhone_55
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 368
+        width: 106
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4b9edd33738f14ea4eac0f4fd6082e
+      internalID: -2016460510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Good_girl_onPhone_56
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 368
+        width: 106
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814d0808e2bafc44b99f3c06a1f826f9
+      internalID: -351567781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Good_girl_onPhone_57
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 368
+        width: 106
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334eb82c1d082eb4a9eb11291077e82f
+      internalID: -325685627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Good_girl_onPhone_58
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 368
+        width: 106
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b584b9c90f5c0c4478b3f119df402ede
+      internalID: 1024096297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Good_girl_onPhone_59
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 368
+        width: 106
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dddf78db04971d4a9c01922840f80f8
+      internalID: 713291642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Good_girl_onPhone_60
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 368
+        width: 106
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8467ef06da2b194fb5fda37060c7904
+      internalID: 1365013817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Good_girl_onPhone_61
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 368
+        width: 106
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09897912e682adb4c83fe5b495cc086e
+      internalID: 1922575355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Good_girl_onPhone_62
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 368
+        width: 106
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff41cb60229f8347b73ed78d3d7c404
+      internalID: -768249953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Good_girl_onPhone_63
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 368
+        width: 106
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab8ba96543857345823f50dc597e0c1
+      internalID: -240892007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Good_girl_onPhone_64
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 368
+        width: 106
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9030a63ae3d7744a932dcba734a7c42
+      internalID: -1255983507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Good_girl_onPhone_65
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 368
+        width: 106
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a859770856e81d94bad65d39c69a35e0
+      internalID: 1074427068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Good_girl_onPhone_66
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 88
+        width: 106
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc39a7389c61ac4a98ff8ae47c761fc
+      internalID: -1168195131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Good_girl_onPhone_67
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 88
+        width: 106
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e2eaf558c8d664d906ac88ca0d03e2
+      internalID: -443008788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Good_girl_onPhone_68
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 88
+        width: 106
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d723a15519989489cb08c4b578b8b5
+      internalID: -1956526067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Good_girl_onPhone_69
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 88
+        width: 106
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f82cb70b36165744bae4ba7adce41ef
+      internalID: -337858446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Good_girl_onPhone_0: -420828241
+      Good_girl_onPhone_1: -853755022
+      Good_girl_onPhone_10: -1407944587
+      Good_girl_onPhone_11: 290030072
+      Good_girl_onPhone_12: 215601902
+      Good_girl_onPhone_13: -384478819
+      Good_girl_onPhone_14: -1449066152
+      Good_girl_onPhone_15: -1103395491
+      Good_girl_onPhone_16: 1054048993
+      Good_girl_onPhone_17: 30127755
+      Good_girl_onPhone_18: -1108939160
+      Good_girl_onPhone_19: 1948013551
+      Good_girl_onPhone_2: -1170603248
+      Good_girl_onPhone_20: 570253614
+      Good_girl_onPhone_21: -1822955872
+      Good_girl_onPhone_22: 537469064
+      Good_girl_onPhone_23: 241097454
+      Good_girl_onPhone_24: 962238933
+      Good_girl_onPhone_25: 1852172933
+      Good_girl_onPhone_26: 1865972918
+      Good_girl_onPhone_27: -620221312
+      Good_girl_onPhone_28: 1082312848
+      Good_girl_onPhone_29: 640259373
+      Good_girl_onPhone_3: -336446418
+      Good_girl_onPhone_30: 560881685
+      Good_girl_onPhone_31: 934100990
+      Good_girl_onPhone_32: 214907142
+      Good_girl_onPhone_33: 1855465723
+      Good_girl_onPhone_34: -515073092
+      Good_girl_onPhone_35: 974854769
+      Good_girl_onPhone_36: 283216508
+      Good_girl_onPhone_37: 1283877163
+      Good_girl_onPhone_38: -802948889
+      Good_girl_onPhone_39: -1033286157
+      Good_girl_onPhone_4: 1218673390
+      Good_girl_onPhone_40: -1853068103
+      Good_girl_onPhone_41: -596711287
+      Good_girl_onPhone_42: -1586344993
+      Good_girl_onPhone_43: -1601636143
+      Good_girl_onPhone_44: 824368981
+      Good_girl_onPhone_45: -480233298
+      Good_girl_onPhone_46: 2121718960
+      Good_girl_onPhone_47: -2043928965
+      Good_girl_onPhone_48: 1729418857
+      Good_girl_onPhone_49: -1853157314
+      Good_girl_onPhone_5: -1777336466
+      Good_girl_onPhone_50: 579536429
+      Good_girl_onPhone_51: -406409012
+      Good_girl_onPhone_52: -771048606
+      Good_girl_onPhone_53: -1343086519
+      Good_girl_onPhone_54: 1310824473
+      Good_girl_onPhone_55: -2016460510
+      Good_girl_onPhone_56: -351567781
+      Good_girl_onPhone_57: -325685627
+      Good_girl_onPhone_58: 1024096297
+      Good_girl_onPhone_59: 713291642
+      Good_girl_onPhone_6: -686606186
+      Good_girl_onPhone_60: 1365013817
+      Good_girl_onPhone_61: 1922575355
+      Good_girl_onPhone_62: -768249953
+      Good_girl_onPhone_63: -240892007
+      Good_girl_onPhone_64: -1255983507
+      Good_girl_onPhone_65: 1074427068
+      Good_girl_onPhone_66: -1168195131
+      Good_girl_onPhone_67: -443008788
+      Good_girl_onPhone_68: -1956526067
+      Good_girl_onPhone_69: -337858446
+      Good_girl_onPhone_7: -738684086
+      Good_girl_onPhone_8: 2035448725
+      Good_girl_onPhone_9: 348125185
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
