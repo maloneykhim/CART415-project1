@@ -4,11 +4,11 @@ using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
 using UnityEngine.SceneManagement;
+using UnityEngine.EventSystems;
 
 public class GameController : MonoBehaviour
 {
 
-    AudioController audioController;
 
     float currentProgress = 0;
     float maxProgress = 20;
@@ -23,13 +23,6 @@ public class GameController : MonoBehaviour
 
 
 
-    private void Awake()
-    {
-
-        audioController = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioController>();
-
-    }
-
     void Start()
     {
         timeIsRunning = true;
@@ -38,11 +31,19 @@ public class GameController : MonoBehaviour
 
     void Update(){
 
+        // Check if the mouse is over a UI element
+         if (EventSystem.current.IsPointerOverGameObject())
+        {
+            // If it is, don't perform the gameplay action
+            return;
+        }
+
         if(Input.GetMouseButton(0))
         {
 
             currentProgress += increment;
-            audioController.PlaySFX();
+            
+           
 
             
         } else {
@@ -55,7 +56,7 @@ public class GameController : MonoBehaviour
         currentProgress = Mathf.Clamp(currentProgress, 0, maxProgress);
         UpdateProgressAmount();
 
-        Debug.Log($"Current Progress: {currentProgress}");
+       // Debug.Log($"Current Progress: {currentProgress}");
 
         // Game is not paused
         if(timeIsRunning)
@@ -98,14 +99,14 @@ public class GameController : MonoBehaviour
 
         if (currentProgress == maxProgress) {
          
-           Debug.Log($"you win!");
+          // Debug.Log($"you win!");
              SceneManager.LoadScene("Win");
            // win condition
         }
 
         if (currentProgress == 0)
         {
-            Debug.Log($"you lose!");
+           // Debug.Log($"you lose!");
             // lose condition
         }
     }

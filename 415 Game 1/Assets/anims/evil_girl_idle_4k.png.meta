@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 66499db37cfbc354ca017e39a60a3d5b
+guid: 4bda8c5c707986c409beddc737e5e7c4
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 70
+  spritePixelsToUnits: 80
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -110,13 +110,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Good_girl_onPhone02_0
+      name: evil_girl_idle_4k_0
       rect:
         serializedVersion: 2
-        x: 49
-        y: 3533
-        width: 214
-        height: 502
+        x: 83
+        y: 3456
+        width: 254
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -124,20 +124,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bacf22147d6fb5e4eb196f5eefced1b4
-      internalID: -496667632
+      spriteID: a1fd1fdf5b637024da9d2a754f5ea3df
+      internalID: -164273302
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Good_girl_onPhone02_1
+      name: evil_girl_idle_4k_1
       rect:
         serializedVersion: 2
-        x: 395
-        y: 3573
-        width: 200
-        height: 466
+        x: 483
+        y: 3456
+        width: 254
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -145,20 +145,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d7d7e94039f5afb4a94a761b64266cc9
-      internalID: -428535490
+      spriteID: dfa57dbd71af1cb46b0bed1e5cbdcdcf
+      internalID: 486240389
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Good_girl_onPhone02_2
+      name: evil_girl_idle_4k_2
       rect:
         serializedVersion: 2
-        x: 745
-        y: 3573
-        width: 200
-        height: 466
+        x: 883
+        y: 3456
+        width: 254
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -166,20 +166,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 68b6aa7b8541e2f4fb2577b02998bae2
-      internalID: -927489345
+      spriteID: 05ffe1217d51d3348a4dc268d43fb180
+      internalID: -1034802598
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Good_girl_onPhone02_3
+      name: evil_girl_idle_4k_3
       rect:
         serializedVersion: 2
-        x: 1095
-        y: 3573
-        width: 200
-        height: 466
+        x: 1283
+        y: 3456
+        width: 254
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -187,20 +187,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 25e35894d7e74d2499670fce64129588
-      internalID: -34912628
+      spriteID: e11b2c816ad6a154fa9b3086eb05a722
+      internalID: 816035325
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Good_girl_onPhone02_4
+      name: evil_girl_idle_4k_4
       rect:
         serializedVersion: 2
-        x: 1445
-        y: 3573
-        width: 200
-        height: 466
+        x: 1683
+        y: 3456
+        width: 255
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -208,20 +208,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 937c452344cf26845b0f9d548263fa7e
-      internalID: 1785696144
+      spriteID: 8b261bb96fdacd14c95ea038225bfabb
+      internalID: -160697888
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Good_girl_onPhone02_5
+      name: evil_girl_idle_4k_5
       rect:
         serializedVersion: 2
-        x: 1795
-        y: 3573
-        width: 200
-        height: 466
+        x: 2083
+        y: 3456
+        width: 255
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -229,20 +229,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c243e3847abf53446ad1498e816dd9fe
-      internalID: 1913020989
+      spriteID: 43ba502703f1f244aa9a715b52a772c6
+      internalID: 1920186739
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Good_girl_onPhone02_6
+      name: evil_girl_idle_4k_6
       rect:
         serializedVersion: 2
-        x: 2145
-        y: 3573
-        width: 200
-        height: 466
+        x: 2483
+        y: 3456
+        width: 255
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -250,20 +250,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2a54c76831ff4594b93a4d1ab9565ffd
-      internalID: 868971309
+      spriteID: f457b650903650044a646f3d563709d9
+      internalID: -1141904885
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Good_girl_onPhone02_7
+      name: evil_girl_idle_4k_7
       rect:
         serializedVersion: 2
-        x: 2495
-        y: 3573
-        width: 200
-        height: 466
+        x: 2883
+        y: 3456
+        width: 255
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -271,20 +271,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5ac535e37a367db408bad459003e7bb6
-      internalID: -1970263114
+      spriteID: f9124a431d1490f4caae8962b4c34136
+      internalID: -1989917899
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Good_girl_onPhone02_8
+      name: evil_girl_idle_4k_8
       rect:
         serializedVersion: 2
-        x: 2845
-        y: 3573
-        width: 200
-        height: 466
+        x: 3283
+        y: 3456
+        width: 255
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -292,20 +292,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 596096874c2080543a6408d47c86bd1e
-      internalID: -288438643
+      spriteID: 8357bed81969f844e9e1cbd848931e74
+      internalID: -2020089685
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Good_girl_onPhone02_9
+      name: evil_girl_idle_4k_9
       rect:
         serializedVersion: 2
-        x: 3195
-        y: 3573
-        width: 200
-        height: 466
+        x: 3683
+        y: 3456
+        width: 256
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -313,20 +313,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2189eb0eee3ada749ad3eb9ad69c9d15
-      internalID: 2120895252
+      spriteID: ba6572946f53d9d449787733fda1bf0d
+      internalID: 429681026
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Good_girl_onPhone02_10
+      name: evil_girl_idle_4k_10
       rect:
         serializedVersion: 2
-        x: 3545
-        y: 3573
-        width: 200
-        height: 466
+        x: 84
+        y: 2816
+        width: 255
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -334,20 +334,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b8c410bce2c3ba948a3b8ec19c3937c3
-      internalID: -1254172408
+      spriteID: e7b8e5d1607d6634088d6c008a07adbe
+      internalID: -420557496
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Good_girl_onPhone02_11
+      name: evil_girl_idle_4k_11
       rect:
         serializedVersion: 2
-        x: 45
-        y: 3013
-        width: 200
-        height: 466
+        x: 484
+        y: 2816
+        width: 255
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -355,20 +355,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a0fc4efac29b90146bc31e00c25a34f3
-      internalID: -265801268
+      spriteID: d6b047c17670cd94c870d5807356079c
+      internalID: 868376421
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Good_girl_onPhone02_12
+      name: evil_girl_idle_4k_12
       rect:
         serializedVersion: 2
-        x: 395
-        y: 3013
-        width: 200
-        height: 464
+        x: 884
+        y: 2816
+        width: 255
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -376,20 +376,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 774dd1a1585c89d4aac9d7a1d6485799
-      internalID: -9249535
+      spriteID: a15e536540f215a4d8b6e188525a4cef
+      internalID: -652633582
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Good_girl_onPhone02_13
+      name: evil_girl_idle_4k_13
       rect:
         serializedVersion: 2
-        x: 745
-        y: 3013
-        width: 200
-        height: 464
+        x: 1284
+        y: 2816
+        width: 256
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -397,20 +397,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 48082327ca56a68459650dcd4c3364cb
-      internalID: -884786291
+      spriteID: 32cbd02b414b3b94795fb70b326a605b
+      internalID: -1519229309
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Good_girl_onPhone02_14
+      name: evil_girl_idle_4k_14
       rect:
         serializedVersion: 2
-        x: 1095
-        y: 3013
-        width: 200
-        height: 464
+        x: 1684
+        y: 2816
+        width: 256
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -418,20 +418,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a1dcb491565d65e439963606b97ebdb0
-      internalID: -1993012893
+      spriteID: 8a2e5c28b3fc51248b6f2f91853e5ba3
+      internalID: 447528891
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Good_girl_onPhone02_15
+      name: evil_girl_idle_4k_15
       rect:
         serializedVersion: 2
-        x: 1445
-        y: 3013
-        width: 200
-        height: 464
+        x: 2084
+        y: 2816
+        width: 256
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -439,20 +439,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: eb128e0274d34f647b11ecf45b74de09
-      internalID: -101395161
+      spriteID: 11120bbcac3862144985c7c7e53a24dc
+      internalID: 1564169581
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Good_girl_onPhone02_16
+      name: evil_girl_idle_4k_16
       rect:
         serializedVersion: 2
-        x: 1795
-        y: 3013
-        width: 200
-        height: 464
+        x: 2484
+        y: 2816
+        width: 256
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -460,20 +460,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f65de7c244c8c4f4f88c06f9b2d44489
-      internalID: -1564862065
+      spriteID: 78dd2d897b8453044adcc5935878940d
+      internalID: 642059773
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Good_girl_onPhone02_17
+      name: evil_girl_idle_4k_17
       rect:
         serializedVersion: 2
-        x: 2145
-        y: 3013
-        width: 200
-        height: 464
+        x: 2884
+        y: 2816
+        width: 256
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -481,20 +481,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5b133b1bf8ce4b44cbb6b3a1c344e5cd
-      internalID: 148455662
+      spriteID: 8c59545046201ca469b16897c8025e99
+      internalID: -1803592882
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Good_girl_onPhone02_18
+      name: evil_girl_idle_4k_18
       rect:
         serializedVersion: 2
-        x: 2495
-        y: 3013
-        width: 200
-        height: 464
+        x: 3284
+        y: 2816
+        width: 256
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -502,20 +502,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e53efcaada39e0645919f0a38ef31cb8
-      internalID: 772415962
+      spriteID: e9bc4a02415006545bc0674bbb04ae80
+      internalID: 303687656
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Good_girl_onPhone02_19
+      name: evil_girl_idle_4k_19
       rect:
         serializedVersion: 2
-        x: 2845
-        y: 3013
-        width: 200
-        height: 464
+        x: 3684
+        y: 2816
+        width: 257
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -523,20 +523,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2d4fde6fcd4d95b4993714d947a65ce8
-      internalID: 1211892175
+      spriteID: 285cf5c568c157345b9b3e6c377c480f
+      internalID: -835909642
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Good_girl_onPhone02_20
+      name: evil_girl_idle_4k_20
       rect:
         serializedVersion: 2
-        x: 3195
-        y: 3013
-        width: 200
-        height: 464
+        x: 84
+        y: 2176
+        width: 257
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -544,20 +544,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 289f6854e07c977459f5ca3a308422f9
-      internalID: 234632030
+      spriteID: 46edfac7b848ac242ac6603f90f8d5cf
+      internalID: -1729362444
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Good_girl_onPhone02_21
+      name: evil_girl_idle_4k_21
       rect:
         serializedVersion: 2
-        x: 3545
-        y: 3013
-        width: 200
-        height: 464
+        x: 484
+        y: 2176
+        width: 257
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -565,20 +565,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e2994f8cbe2fb1048b625f70ff6975be
-      internalID: 1731449938
+      spriteID: 54fe1aa733a55b74d96fab1b1fbcf001
+      internalID: -935652006
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Good_girl_onPhone02_22
+      name: evil_girl_idle_4k_22
       rect:
         serializedVersion: 2
-        x: 45
-        y: 2453
-        width: 200
-        height: 464
+        x: 884
+        y: 2176
+        width: 257
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -586,20 +586,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 997770266dcb2ef41b5303dbe9e03a7c
-      internalID: 222816272
+      spriteID: 04e6fbaf054d284458b40f870160b941
+      internalID: -1681185855
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Good_girl_onPhone02_23
+      name: evil_girl_idle_4k_23
       rect:
         serializedVersion: 2
-        x: 395
-        y: 2453
-        width: 200
-        height: 464
+        x: 1284
+        y: 2176
+        width: 257
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -607,20 +607,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c3ef0788a0d6abd4ba2f3497bcd22606
-      internalID: 446923242
+      spriteID: 5a2adc3a746ce4c48a7f36fa31203ea5
+      internalID: -987277283
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Good_girl_onPhone02_24
+      name: evil_girl_idle_4k_24
       rect:
         serializedVersion: 2
-        x: 745
-        y: 2453
-        width: 200
-        height: 464
+        x: 1684
+        y: 2176
+        width: 257
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -628,20 +628,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 08aa92b044343e64cb2f54cfb8bc223d
-      internalID: 828530723
+      spriteID: f685622809e255844a2496f70feaf5cc
+      internalID: 1682837223
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Good_girl_onPhone02_25
+      name: evil_girl_idle_4k_25
       rect:
         serializedVersion: 2
-        x: 1095
-        y: 2453
-        width: 200
-        height: 464
+        x: 2084
+        y: 2176
+        width: 257
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -649,20 +649,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b98cbd90149b6b54aaad3fe3a813ddd2
-      internalID: -1442914122
+      spriteID: 5e2692a97d758ab4fb6461c3d0b794e9
+      internalID: 1627482944
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Good_girl_onPhone02_26
+      name: evil_girl_idle_4k_26
       rect:
         serializedVersion: 2
-        x: 1445
-        y: 2453
-        width: 200
-        height: 466
+        x: 2484
+        y: 2176
+        width: 257
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -670,20 +670,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9ca0eeed6b62225488070331a0357fb2
-      internalID: -1471164183
+      spriteID: e1ea0cec47d7de745a6cc42964684159
+      internalID: 1173291749
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Good_girl_onPhone02_27
+      name: evil_girl_idle_4k_27
       rect:
         serializedVersion: 2
-        x: 1795
-        y: 2453
-        width: 200
-        height: 466
+        x: 2884
+        y: 2176
+        width: 257
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -691,20 +691,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 80b4b1aac640f8a40a941eb38a4eb6d5
-      internalID: -1800122068
+      spriteID: 61eddc87ec9f2a84cab488788452f5d4
+      internalID: -1213168572
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Good_girl_onPhone02_28
+      name: evil_girl_idle_4k_28
       rect:
         serializedVersion: 2
-        x: 2145
-        y: 2453
-        width: 200
-        height: 466
+        x: 3284
+        y: 2176
+        width: 256
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -712,20 +712,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e239fc078883248449abbe2b5731952b
-      internalID: -327834913
+      spriteID: 1ca057e71d1bb894fa9d3f8075338966
+      internalID: -392288080
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Good_girl_onPhone02_29
+      name: evil_girl_idle_4k_29
       rect:
         serializedVersion: 2
-        x: 2495
-        y: 2453
-        width: 200
-        height: 466
+        x: 3684
+        y: 2176
+        width: 256
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -733,20 +733,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b6c57575001a5a34992ad45e6cf63beb
-      internalID: -1636682188
+      spriteID: 6ed5cddc55e935b498338dc378172b1c
+      internalID: -1214817095
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Good_girl_onPhone02_30
+      name: evil_girl_idle_4k_30
       rect:
         serializedVersion: 2
-        x: 2845
-        y: 2453
-        width: 200
-        height: 466
+        x: 84
+        y: 1536
+        width: 256
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -754,20 +754,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7cc58017a25b27d48abf706ce27a1ccc
-      internalID: -306109057
+      spriteID: ca3542418f0c1674e8dc48343e577db9
+      internalID: -1805813935
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Good_girl_onPhone02_31
+      name: evil_girl_idle_4k_31
       rect:
         serializedVersion: 2
-        x: 3195
-        y: 2453
-        width: 200
-        height: 466
+        x: 484
+        y: 1536
+        width: 256
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -775,20 +775,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 57eaae6c67091954ebd607dfa6f98d89
-      internalID: 547606475
+      spriteID: ccb5f42ee2e45ba44b707d93948c5f85
+      internalID: 995268911
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Good_girl_onPhone02_32
+      name: evil_girl_idle_4k_32
       rect:
         serializedVersion: 2
-        x: 3545
-        y: 2453
-        width: 200
-        height: 466
+        x: 884
+        y: 1536
+        width: 256
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -796,20 +796,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bf7d3eaced2ea5446b4612dd11ff9220
-      internalID: 707508238
+      spriteID: 8305d7b06979e83448ca465634101d5e
+      internalID: 670823561
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Good_girl_onPhone02_33
+      name: evil_girl_idle_4k_33
       rect:
         serializedVersion: 2
-        x: 45
-        y: 1893
-        width: 200
-        height: 466
+        x: 1284
+        y: 1536
+        width: 256
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -817,20 +817,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9f60db160d539d345898074a21aa0c2c
-      internalID: 781184758
+      spriteID: e89dd6b9e1b383f4da7407af5255017b
+      internalID: 533495748
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Good_girl_onPhone02_34
+      name: evil_girl_idle_4k_34
       rect:
         serializedVersion: 2
-        x: 395
-        y: 1893
-        width: 200
-        height: 466
+        x: 1684
+        y: 1536
+        width: 255
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -838,20 +838,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 54a3ce3818b6c7e4a9a0c964cdcf88b0
-      internalID: -768171378
+      spriteID: 9df4b505835eecb47863cdb9de305ebb
+      internalID: 307906027
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Good_girl_onPhone02_35
+      name: evil_girl_idle_4k_35
       rect:
         serializedVersion: 2
-        x: 745
-        y: 1893
-        width: 200
-        height: 466
+        x: 2084
+        y: 1536
+        width: 255
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -859,20 +859,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ccd5ecb33d1ec8346ade67306768705a
-      internalID: -1517863209
+      spriteID: abc107a1239c86d4097c8abe5031cf3d
+      internalID: -1400563051
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Good_girl_onPhone02_36
+      name: evil_girl_idle_4k_36
       rect:
         serializedVersion: 2
-        x: 1095
-        y: 1893
-        width: 200
-        height: 466
+        x: 2484
+        y: 1536
+        width: 255
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -880,20 +880,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 08f442084d9cf1440a9f07fbce3ee3ba
-      internalID: -1530969224
+      spriteID: a092a252a1af4654687ee1fc759e976a
+      internalID: 899110769
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Good_girl_onPhone02_37
+      name: evil_girl_idle_4k_37
       rect:
         serializedVersion: 2
-        x: 1445
-        y: 1893
-        width: 200
-        height: 466
+        x: 2883
+        y: 1536
+        width: 256
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -901,20 +901,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8253d006c4bfa1e4b8f8f21fa37468b0
-      internalID: 1374995017
+      spriteID: acf68fbdaa897904ba908e28cc4182cb
+      internalID: 532600651
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Good_girl_onPhone02_38
+      name: evil_girl_idle_4k_38
       rect:
         serializedVersion: 2
-        x: 1795
-        y: 1893
-        width: 200
-        height: 466
+        x: 3283
+        y: 1536
+        width: 255
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -922,20 +922,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bedf18e5bea7d1c41a3348a28971cc9f
-      internalID: 413100809
+      spriteID: ef132663b3ab5da4d91db8f1afbc972b
+      internalID: -1216019154
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Good_girl_onPhone02_39
+      name: evil_girl_idle_4k_39
       rect:
         serializedVersion: 2
-        x: 2145
-        y: 1893
-        width: 200
-        height: 466
+        x: 3683
+        y: 1536
+        width: 255
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -943,20 +943,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e33500f481499bc428c0d851cea15b7a
-      internalID: 1822136248
+      spriteID: 70da19fe7b4a5f44aa70dfaf22823caa
+      internalID: -336276228
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Good_girl_onPhone02_40
+      name: evil_girl_idle_4k_40
       rect:
         serializedVersion: 2
-        x: 2495
-        y: 1893
-        width: 200
-        height: 466
+        x: 83
+        y: 896
+        width: 255
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -964,20 +964,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 516508c5b2ae02e4ab2ecd7c7b86b330
-      internalID: -134763361
+      spriteID: 897a2ed9e53013748b64da83cc77c96c
+      internalID: 1009516242
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Good_girl_onPhone02_41
+      name: evil_girl_idle_4k_41
       rect:
         serializedVersion: 2
-        x: 2845
-        y: 1893
-        width: 200
-        height: 466
+        x: 483
+        y: 896
+        width: 255
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -985,20 +985,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5cb0cc77329e6fa45b920b6269aa7e6e
-      internalID: 1216079957
+      spriteID: 6a28f3555d5edc2459bb07f2faa23afd
+      internalID: 1123195597
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Good_girl_onPhone02_42
+      name: evil_girl_idle_4k_42
       rect:
         serializedVersion: 2
-        x: 3195
-        y: 1893
-        width: 200
-        height: 466
+        x: 883
+        y: 896
+        width: 255
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1006,20 +1006,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0ed112131e886fc42a1daf469b18f1db
-      internalID: -1991118374
+      spriteID: ae4c0aa909ef5cb4f8d56d0b091f2881
+      internalID: -16783983
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Good_girl_onPhone02_43
+      name: evil_girl_idle_4k_43
       rect:
         serializedVersion: 2
-        x: 3545
-        y: 1893
-        width: 198
-        height: 466
+        x: 1283
+        y: 896
+        width: 254
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1027,20 +1027,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b480e0ee5a4d68c46902716619dc97b5
-      internalID: 527183989
+      spriteID: 58999c6c774e0d84d90aed98ccc6b1e4
+      internalID: 602501259
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Good_girl_onPhone02_44
+      name: evil_girl_idle_4k_44
       rect:
         serializedVersion: 2
-        x: 45
-        y: 1333
-        width: 198
-        height: 466
+        x: 1683
+        y: 896
+        width: 254
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1048,20 +1048,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cb4acddf1199a934cb06c64d54af101b
-      internalID: -607454012
+      spriteID: 839b017dbb26716419c1de886bf481a0
+      internalID: 1926558632
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Good_girl_onPhone02_45
+      name: evil_girl_idle_4k_45
       rect:
         serializedVersion: 2
-        x: 395
-        y: 1333
-        width: 200
-        height: 466
+        x: 2083
+        y: 896
+        width: 254
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1069,20 +1069,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a047545c6a1cf314fb3bcdfad7876b44
-      internalID: -2029578350
+      spriteID: 5f6cdd9bb60b0aa4ba75ead6d1411b5c
+      internalID: 439614392
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Good_girl_onPhone02_46
+      name: evil_girl_idle_4k_46
       rect:
         serializedVersion: 2
-        x: 745
-        y: 1333
-        width: 198
-        height: 466
+        x: 2483
+        y: 896
+        width: 254
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1090,20 +1090,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f0f8163b4af42644aa8f2b439755e285
-      internalID: -1290340700
+      spriteID: 5c79bf2c7c035744aba8e9d80473c339
+      internalID: -292520476
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Good_girl_onPhone02_47
+      name: evil_girl_idle_4k_47
       rect:
         serializedVersion: 2
-        x: 1093
-        y: 1333
-        width: 200
-        height: 466
+        x: 2883
+        y: 896
+        width: 254
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1111,20 +1111,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e27033e0907b2bc4780dc2959b3e518e
-      internalID: -293482627
+      spriteID: 8b4694a945aaa0c40a9a3a92eaf1f41b
+      internalID: 1522813602
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Good_girl_onPhone02_48
+      name: evil_girl_idle_4k_48
       rect:
         serializedVersion: 2
-        x: 1445
-        y: 1333
-        width: 198
-        height: 466
+        x: 3283
+        y: 896
+        width: 254
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1132,20 +1132,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 16b62662e16be3d40a450e51b7bbd08a
-      internalID: -1633139856
+      spriteID: ba0e104effa07d043b5a74c1fcafdedd
+      internalID: 1374636168
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Good_girl_onPhone02_49
+      name: evil_girl_idle_4k_49
       rect:
         serializedVersion: 2
-        x: 1795
-        y: 1333
-        width: 200
-        height: 466
+        x: 3683
+        y: 896
+        width: 254
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1153,20 +1153,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b537259b7b3f02c47b2bcae4afab52db
-      internalID: -201531319
+      spriteID: 4d9f2444f99a1184c826880793277944
+      internalID: 1057200334
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Good_girl_onPhone02_50
+      name: evil_girl_idle_4k_50
       rect:
         serializedVersion: 2
-        x: 2145
-        y: 1333
-        width: 198
-        height: 466
+        x: 83
+        y: 256
+        width: 255
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1174,20 +1174,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b0a6cdca5f57d754e85d983ba4673316
-      internalID: 942401350
+      spriteID: 1341c5bb4d6de9d45938c7f8c8783dcc
+      internalID: 926375052
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Good_girl_onPhone02_51
+      name: evil_girl_idle_4k_51
       rect:
         serializedVersion: 2
-        x: 2494
-        y: 1333
-        width: 199
-        height: 466
+        x: 483
+        y: 256
+        width: 255
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1195,20 +1195,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5d78f487a94f70543836182b7eabf8e7
-      internalID: -1658641605
+      spriteID: f66a056dbb066bf4aaf3b937d8ae05cf
+      internalID: 2029600615
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Good_girl_onPhone02_52
+      name: evil_girl_idle_4k_52
       rect:
         serializedVersion: 2
-        x: 2845
-        y: 1333
-        width: 200
-        height: 464
+        x: 883
+        y: 256
+        width: 255
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1216,20 +1216,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 80d6252e8861d7342a274f4447675e4c
-      internalID: 2035526318
+      spriteID: 83e538ce7a49b91488fddaf571f44203
+      internalID: -294167896
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Good_girl_onPhone02_53
+      name: evil_girl_idle_4k_53
       rect:
         serializedVersion: 2
-        x: 3195
-        y: 1333
-        width: 200
-        height: 464
+        x: 1283
+        y: 256
+        width: 255
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1237,20 +1237,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4c452ffa4f37bc24d8581fb604374607
-      internalID: -1150916375
+      spriteID: dd56990b41e446c4e8870c21124facae
+      internalID: -1823187526
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Good_girl_onPhone02_54
+      name: evil_girl_idle_4k_54
       rect:
         serializedVersion: 2
-        x: 3545
-        y: 1333
-        width: 198
-        height: 464
+        x: 1683
+        y: 256
+        width: 255
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1258,20 +1258,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ee8efe568ae65d2499647d87492fe255
-      internalID: -1816674777
+      spriteID: 289b6d73a8640d44e9b37769c758e963
+      internalID: 32608906
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Good_girl_onPhone02_55
+      name: evil_girl_idle_4k_55
       rect:
         serializedVersion: 2
-        x: 45
-        y: 773
-        width: 200
-        height: 464
+        x: 2083
+        y: 256
+        width: 256
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1279,20 +1279,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fc798bd26e63d1c44825dbbfa2d03762
-      internalID: 1138096075
+      spriteID: ee017e11faec1d847a5fe07df3b56b08
+      internalID: 29176165
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Good_girl_onPhone02_56
+      name: evil_girl_idle_4k_56
       rect:
         serializedVersion: 2
-        x: 395
-        y: 773
-        width: 200
-        height: 464
+        x: 2484
+        y: 256
+        width: 255
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1300,20 +1300,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c646c0cbb35dc594f989afeb28b0ea51
-      internalID: -1837321418
+      spriteID: e6884feb362f950479c45622c52ace50
+      internalID: 1723198322
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Good_girl_onPhone02_57
+      name: evil_girl_idle_4k_57
       rect:
         serializedVersion: 2
-        x: 745
-        y: 773
-        width: 200
-        height: 464
+        x: 2884
+        y: 256
+        width: 255
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1321,20 +1321,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e56912ecf7863544e85ea7c8190ff203
-      internalID: 167256446
+      spriteID: 61bd98ce85eccbb4fbd14becbd96d958
+      internalID: 1326070822
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Good_girl_onPhone02_58
+      name: evil_girl_idle_4k_58
       rect:
         serializedVersion: 2
-        x: 1095
-        y: 773
-        width: 200
-        height: 464
+        x: 3284
+        y: 256
+        width: 255
+        height: 547
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1342,239 +1342,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 68a424982dbf24d4c923d44b20286851
-      internalID: 2144150834
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Good_girl_onPhone02_59
-      rect:
-        serializedVersion: 2
-        x: 1445
-        y: 773
-        width: 200
-        height: 464
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2538eff64e8e8eb498f27b32f5784e33
-      internalID: 649419308
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Good_girl_onPhone02_60
-      rect:
-        serializedVersion: 2
-        x: 1795
-        y: 773
-        width: 200
-        height: 464
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ab5d97abcbed0944e86fd344b0f4fe4b
-      internalID: 1636010899
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Good_girl_onPhone02_61
-      rect:
-        serializedVersion: 2
-        x: 2145
-        y: 773
-        width: 200
-        height: 464
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bd763850d3f7ae1419a0c845a2e87483
-      internalID: 515579141
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Good_girl_onPhone02_62
-      rect:
-        serializedVersion: 2
-        x: 2495
-        y: 773
-        width: 200
-        height: 464
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 17976f82fdff014449c93c15eef695ae
-      internalID: 837263864
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Good_girl_onPhone02_63
-      rect:
-        serializedVersion: 2
-        x: 2845
-        y: 773
-        width: 200
-        height: 464
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d6503be549e40b14393f685ca3ad6448
-      internalID: -1114778408
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Good_girl_onPhone02_64
-      rect:
-        serializedVersion: 2
-        x: 3195
-        y: 773
-        width: 200
-        height: 464
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c9ff322051ab15240ba47dae2e25f2c6
-      internalID: 196203507
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Good_girl_onPhone02_65
-      rect:
-        serializedVersion: 2
-        x: 3545
-        y: 773
-        width: 200
-        height: 464
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 55ec9e484bd100747a2a57efe78bdfd9
-      internalID: -400241872
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Good_girl_onPhone02_66
-      rect:
-        serializedVersion: 2
-        x: 45
-        y: 213
-        width: 200
-        height: 464
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: deb89b395bdff7640937ea88222a64c5
-      internalID: -1884234034
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Good_girl_onPhone02_67
-      rect:
-        serializedVersion: 2
-        x: 395
-        y: 213
-        width: 200
-        height: 464
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cf641051faebe9246989907c0411c31b
-      internalID: 1780543517
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Good_girl_onPhone02_68
-      rect:
-        serializedVersion: 2
-        x: 745
-        y: 213
-        width: 200
-        height: 464
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 74c8200d61bc09f42be21b427a8287d4
-      internalID: 883678200
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Good_girl_onPhone02_69
-      rect:
-        serializedVersion: 2
-        x: 1095
-        y: 213
-        width: 200
-        height: 464
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c1e05b314b21b304184b02a10709e6e9
-      internalID: -1982461739
+      spriteID: bdbaf6c50ae59ae4284ca5f2071353cf
+      internalID: 589148557
       vertices: []
       indices: 
       edges: []
@@ -1590,76 +1359,65 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Good_girl_onPhone02_0: -496667632
-      Good_girl_onPhone02_1: -428535490
-      Good_girl_onPhone02_10: -1254172408
-      Good_girl_onPhone02_11: -265801268
-      Good_girl_onPhone02_12: -9249535
-      Good_girl_onPhone02_13: -884786291
-      Good_girl_onPhone02_14: -1993012893
-      Good_girl_onPhone02_15: -101395161
-      Good_girl_onPhone02_16: -1564862065
-      Good_girl_onPhone02_17: 148455662
-      Good_girl_onPhone02_18: 772415962
-      Good_girl_onPhone02_19: 1211892175
-      Good_girl_onPhone02_2: -927489345
-      Good_girl_onPhone02_20: 234632030
-      Good_girl_onPhone02_21: 1731449938
-      Good_girl_onPhone02_22: 222816272
-      Good_girl_onPhone02_23: 446923242
-      Good_girl_onPhone02_24: 828530723
-      Good_girl_onPhone02_25: -1442914122
-      Good_girl_onPhone02_26: -1471164183
-      Good_girl_onPhone02_27: -1800122068
-      Good_girl_onPhone02_28: -327834913
-      Good_girl_onPhone02_29: -1636682188
-      Good_girl_onPhone02_3: -34912628
-      Good_girl_onPhone02_30: -306109057
-      Good_girl_onPhone02_31: 547606475
-      Good_girl_onPhone02_32: 707508238
-      Good_girl_onPhone02_33: 781184758
-      Good_girl_onPhone02_34: -768171378
-      Good_girl_onPhone02_35: -1517863209
-      Good_girl_onPhone02_36: -1530969224
-      Good_girl_onPhone02_37: 1374995017
-      Good_girl_onPhone02_38: 413100809
-      Good_girl_onPhone02_39: 1822136248
-      Good_girl_onPhone02_4: 1785696144
-      Good_girl_onPhone02_40: -134763361
-      Good_girl_onPhone02_41: 1216079957
-      Good_girl_onPhone02_42: -1991118374
-      Good_girl_onPhone02_43: 527183989
-      Good_girl_onPhone02_44: -607454012
-      Good_girl_onPhone02_45: -2029578350
-      Good_girl_onPhone02_46: -1290340700
-      Good_girl_onPhone02_47: -293482627
-      Good_girl_onPhone02_48: -1633139856
-      Good_girl_onPhone02_49: -201531319
-      Good_girl_onPhone02_5: 1913020989
-      Good_girl_onPhone02_50: 942401350
-      Good_girl_onPhone02_51: -1658641605
-      Good_girl_onPhone02_52: 2035526318
-      Good_girl_onPhone02_53: -1150916375
-      Good_girl_onPhone02_54: -1816674777
-      Good_girl_onPhone02_55: 1138096075
-      Good_girl_onPhone02_56: -1837321418
-      Good_girl_onPhone02_57: 167256446
-      Good_girl_onPhone02_58: 2144150834
-      Good_girl_onPhone02_59: 649419308
-      Good_girl_onPhone02_6: 868971309
-      Good_girl_onPhone02_60: 1636010899
-      Good_girl_onPhone02_61: 515579141
-      Good_girl_onPhone02_62: 837263864
-      Good_girl_onPhone02_63: -1114778408
-      Good_girl_onPhone02_64: 196203507
-      Good_girl_onPhone02_65: -400241872
-      Good_girl_onPhone02_66: -1884234034
-      Good_girl_onPhone02_67: 1780543517
-      Good_girl_onPhone02_68: 883678200
-      Good_girl_onPhone02_69: -1982461739
-      Good_girl_onPhone02_7: -1970263114
-      Good_girl_onPhone02_8: -288438643
-      Good_girl_onPhone02_9: 2120895252
+      evil_girl_idle_4k_0: -164273302
+      evil_girl_idle_4k_1: 486240389
+      evil_girl_idle_4k_10: -420557496
+      evil_girl_idle_4k_11: 868376421
+      evil_girl_idle_4k_12: -652633582
+      evil_girl_idle_4k_13: -1519229309
+      evil_girl_idle_4k_14: 447528891
+      evil_girl_idle_4k_15: 1564169581
+      evil_girl_idle_4k_16: 642059773
+      evil_girl_idle_4k_17: -1803592882
+      evil_girl_idle_4k_18: 303687656
+      evil_girl_idle_4k_19: -835909642
+      evil_girl_idle_4k_2: -1034802598
+      evil_girl_idle_4k_20: -1729362444
+      evil_girl_idle_4k_21: -935652006
+      evil_girl_idle_4k_22: -1681185855
+      evil_girl_idle_4k_23: -987277283
+      evil_girl_idle_4k_24: 1682837223
+      evil_girl_idle_4k_25: 1627482944
+      evil_girl_idle_4k_26: 1173291749
+      evil_girl_idle_4k_27: -1213168572
+      evil_girl_idle_4k_28: -392288080
+      evil_girl_idle_4k_29: -1214817095
+      evil_girl_idle_4k_3: 816035325
+      evil_girl_idle_4k_30: -1805813935
+      evil_girl_idle_4k_31: 995268911
+      evil_girl_idle_4k_32: 670823561
+      evil_girl_idle_4k_33: 533495748
+      evil_girl_idle_4k_34: 307906027
+      evil_girl_idle_4k_35: -1400563051
+      evil_girl_idle_4k_36: 899110769
+      evil_girl_idle_4k_37: 532600651
+      evil_girl_idle_4k_38: -1216019154
+      evil_girl_idle_4k_39: -336276228
+      evil_girl_idle_4k_4: -160697888
+      evil_girl_idle_4k_40: 1009516242
+      evil_girl_idle_4k_41: 1123195597
+      evil_girl_idle_4k_42: -16783983
+      evil_girl_idle_4k_43: 602501259
+      evil_girl_idle_4k_44: 1926558632
+      evil_girl_idle_4k_45: 439614392
+      evil_girl_idle_4k_46: -292520476
+      evil_girl_idle_4k_47: 1522813602
+      evil_girl_idle_4k_48: 1374636168
+      evil_girl_idle_4k_49: 1057200334
+      evil_girl_idle_4k_5: 1920186739
+      evil_girl_idle_4k_50: 926375052
+      evil_girl_idle_4k_51: 2029600615
+      evil_girl_idle_4k_52: -294167896
+      evil_girl_idle_4k_53: -1823187526
+      evil_girl_idle_4k_54: 32608906
+      evil_girl_idle_4k_55: 29176165
+      evil_girl_idle_4k_56: 1723198322
+      evil_girl_idle_4k_57: 1326070822
+      evil_girl_idle_4k_58: 589148557
+      evil_girl_idle_4k_6: -1141904885
+      evil_girl_idle_4k_7: -1989917899
+      evil_girl_idle_4k_8: -2020089685
+      evil_girl_idle_4k_9: 429681026
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,0 +1,875 @@
+fileFormatVersion: 2
+guid: a2c2d890e115ea34d8e1eccf5c007dcf
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 45
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: good_girl_sculpting_4k_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1648
+        width: 168
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8426f47194c52344958f8bf8f7881af
+      internalID: 594982107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: good_girl_sculpting_4k_1
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1648
+        width: 170
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d63095cfa770744bf23391956174e5
+      internalID: -2061926360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: good_girl_sculpting_4k_2
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1648
+        width: 170
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a0bc83cbd5e80499649b700151aa32
+      internalID: 2015923725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: good_girl_sculpting_4k_3
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 1648
+        width: 166
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d96e0fb9d501a045bb8c21dcc60236e
+      internalID: 1177099792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: good_girl_sculpting_4k_4
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1648
+        width: 164
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac65f104ba53b0b47ac421a05571ef51
+      internalID: -391770849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: good_girl_sculpting_4k_5
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 1648
+        width: 163
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04888e4e4d4f1a24288d52144b8eeaa5
+      internalID: -69131782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: good_girl_sculpting_4k_6
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 1648
+        width: 164
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aad8a73ee925974f860621d9099abea
+      internalID: 441941412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: good_girl_sculpting_4k_7
+      rect:
+        serializedVersion: 2
+        x: 1789
+        y: 1648
+        width: 166
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d298bf05be8c372479799c86dad8be5f
+      internalID: 1917032292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: good_girl_sculpting_4k_8
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1248
+        width: 170
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4591c6cc1164cb14982bec4f5c50300a
+      internalID: 446285757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: good_girl_sculpting_4k_9
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1248
+        width: 168
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ff4ac8c2c2cd54f833c5c1af576720
+      internalID: -798651801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: good_girl_sculpting_4k_10
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 1248
+        width: 162
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04278b7b9fc70424cb4f168a3226896c
+      internalID: 1757245222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: good_girl_sculpting_4k_11
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1248
+        width: 159
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9443c8bd93ff6564aa0f49c9c8f585e1
+      internalID: 1502074930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: good_girl_sculpting_4k_12
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1248
+        width: 161
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76688bc1f105cb45b8a14e7ca28bf78
+      internalID: 1692401227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: good_girl_sculpting_4k_13
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 1248
+        width: 164
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47753ea84e2984f49bc07815c0545999
+      internalID: -716297239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: good_girl_sculpting_4k_14
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 1248
+        width: 166
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6621527cebdad944bba91099b2e8291d
+      internalID: -1440681916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: good_girl_sculpting_4k_15
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 1248
+        width: 167
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef49335958c68504bbad7e730b815850
+      internalID: 1967821244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: good_girl_sculpting_4k_16
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 848
+        width: 168
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b9f8333566fdb47abdc02f45e2d0a9
+      internalID: -1174524878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: good_girl_sculpting_4k_17
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 848
+        width: 168
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5047628424900c44968fbd85f43a6fa
+      internalID: -1900464666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: good_girl_sculpting_4k_18
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 848
+        width: 170
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee425914172bc084e88f14ef26124c48
+      internalID: -291545773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: good_girl_sculpting_4k_19
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 848
+        width: 170
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37778d1e8edc6324a9b6af7a7e1a798d
+      internalID: 216382706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: good_girl_sculpting_4k_20
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 848
+        width: 166
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ffe24f91559f34787a9d7ff5a6f557
+      internalID: -667905956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: good_girl_sculpting_4k_21
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 848
+        width: 164
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e880421c91e7474d82a00da26d8bb42
+      internalID: -502149688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: good_girl_sculpting_4k_22
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 848
+        width: 163
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77347efe036627242ac0e23b91545ec8
+      internalID: -615770336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: good_girl_sculpting_4k_23
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 848
+        width: 164
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87decd1133a8e7c4f97799502525cbef
+      internalID: 1467127842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: good_girl_sculpting_4k_24
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 448
+        width: 166
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c1d489f5fcef34f9494c906f910186
+      internalID: -465550489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: good_girl_sculpting_4k_25
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 448
+        width: 170
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e631c33275081498bc394aebdcd110
+      internalID: -2097377397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: good_girl_sculpting_4k_26
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 448
+        width: 168
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17bb9e26d69dd54eaf1eb1487b13b54
+      internalID: -1336409583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: good_girl_sculpting_4k_27
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 448
+        width: 162
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2ad0fde83e0ae44bdd7831f3764812
+      internalID: 1229503538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: good_girl_sculpting_4k_28
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 448
+        width: 159
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66ea9d6d2951384dbdab08c619fa81f
+      internalID: -1980314320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: good_girl_sculpting_4k_29
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 448
+        width: 170
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c55f9ca681bb4438d10b86e89da53a
+      internalID: -394842955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: good_girl_sculpting_4k_30
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 448
+        width: 170
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961bf7b7a59c51e459e322ab01551a53
+      internalID: 2098893646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: good_girl_sculpting_4k_31
+      rect:
+        serializedVersion: 2
+        x: 1789
+        y: 448
+        width: 166
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8be51344023be478c5e1dad7dbae51
+      internalID: -656525751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: good_girl_sculpting_4k_32
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 48
+        width: 164
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff753b339499ca74daf8c313eb783ad6
+      internalID: -1757385235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: good_girl_sculpting_4k_33
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 48
+        width: 163
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90cadfd5aca2024d9ffc4030527f34d
+      internalID: 1990224563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      good_girl_sculpting_4k_0: 594982107
+      good_girl_sculpting_4k_1: -2061926360
+      good_girl_sculpting_4k_10: 1757245222
+      good_girl_sculpting_4k_11: 1502074930
+      good_girl_sculpting_4k_12: 1692401227
+      good_girl_sculpting_4k_13: -716297239
+      good_girl_sculpting_4k_14: -1440681916
+      good_girl_sculpting_4k_15: 1967821244
+      good_girl_sculpting_4k_16: -1174524878
+      good_girl_sculpting_4k_17: -1900464666
+      good_girl_sculpting_4k_18: -291545773
+      good_girl_sculpting_4k_19: 216382706
+      good_girl_sculpting_4k_2: 2015923725
+      good_girl_sculpting_4k_20: -667905956
+      good_girl_sculpting_4k_21: -502149688
+      good_girl_sculpting_4k_22: -615770336
+      good_girl_sculpting_4k_23: 1467127842
+      good_girl_sculpting_4k_24: -465550489
+      good_girl_sculpting_4k_25: -2097377397
+      good_girl_sculpting_4k_26: -1336409583
+      good_girl_sculpting_4k_27: 1229503538
+      good_girl_sculpting_4k_28: -1980314320
+      good_girl_sculpting_4k_29: -394842955
+      good_girl_sculpting_4k_3: 1177099792
+      good_girl_sculpting_4k_30: 2098893646
+      good_girl_sculpting_4k_31: -656525751
+      good_girl_sculpting_4k_32: -1757385235
+      good_girl_sculpting_4k_33: 1990224563
+      good_girl_sculpting_4k_4: -391770849
+      good_girl_sculpting_4k_5: -69131782
+      good_girl_sculpting_4k_6: 441941412
+      good_girl_sculpting_4k_7: 1917032292
+      good_girl_sculpting_4k_8: 446285757
+      good_girl_sculpting_4k_9: -798651801
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

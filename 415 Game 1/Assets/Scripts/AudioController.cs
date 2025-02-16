@@ -6,45 +6,69 @@ public class AudioController : MonoBehaviour
 {
 
 
-    //[SerializeField] AudioSource musicSource;
-    [SerializeField] AudioSource SFXSource;
+  
+    public AudioSource SFXSource;
+    
+    public AudioClip[] audioClipsPlayer;
+    public AudioClip audioClipRival;
 
 
+    public AudioSource musicSource;
 
-    public AudioClip[] audioClips;
+    public AudioClip theme;
 
-    // Update is called once per frame
-    // void Update()
-    // {
+   
+    
+        public void Start(){
+
+        musicSource.clip = theme;
+        musicSource.Play();
+    }
+
+    public void PauseMusic(){
+
+     if (musicSource.isPlaying)
+    {
+        musicSource.Pause();
+    }
+    else
+    {
+        musicSource.Play();
+    }
         
-    //     if(Input.GetMouseButton(0))
-    //     {
+    }
 
 
-    //     // audioData = GetComponent<AudioSource>();
-    //     // audioData.Play(0);
-    //     // Debug.Log("hammer");
-            
-
-            
-    //     } 
-
-
-
-
-    //}
-
-
-    public void PlaySFX()
+    public void PlayPlayerSFX()
     {
 
         // to ensure no overlapping of the audio
         if (!SFXSource.isPlaying){
        // SFXSource.PlayOneShot(clip);
 
-        SFXSource.clip = audioClips[Random.Range(0, audioClips.Length)];
+        SFXSource.clip = audioClipsPlayer[Random.Range(0, audioClipsPlayer.Length)];
         SFXSource.Play();
 
         }
     }
+
+    public void PlayRivalSFX(){
+
+      if (!SFXSource.isPlaying){
+        SFXSource.clip = audioClipRival;
+       
+        SFXSource.Play();
+      }
+        
+    }
+
+
+    public void StopSFX(){
+        SFXSource.Pause();
+    }
+
+   
+
+
+
 }

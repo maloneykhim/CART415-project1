@@ -1,18 +1,95 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
+using UnityEngine.UI;
+
 
 public class Settings : MonoBehaviour
 {
-    // Start is called before the first frame update
+
+    public Canvas canvas;
+    AudioController audioController;
+
+    public Image buttonImage;
+
+
+    private Color musicEnabledColor; 
+    private Color musicDisabledColor; 
+
+
+
     void Start()
     {
-        
+        ColorUtility.TryParseHtmlString("#FF7FF4", out musicEnabledColor); // Lime Green
+        ColorUtility.TryParseHtmlString("#989898", out musicDisabledColor); // Orange Red
     }
 
-    // Update is called once per frame
-    void Update()
+
+
+
+    private void Awake()
     {
-        
+        audioController = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioController>();
     }
+
+
+
+    public void PauseMusic(){
+
+    audioController.PauseMusic();
+
+    if (audioController.musicSource.isPlaying)
+        {
+            buttonImage.color = musicEnabledColor;
+        
+        }
+        else
+        {
+        buttonImage.color = musicDisabledColor;
+
+        }
+
+
+    }
+
+    public void PauseGame(){
+
+                canvas.enabled = true;
+                
+                Time.timeScale=0;
+
+
+
+
+    }
+
+
+    public void ResumeGame(){
+
+    canvas.enabled = false;
+
+                Time.timeScale=1;
+            
+
+    }
+
+
+    public void RetryGame(){
+
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+
+        Time.timeScale=1;
+
+    }
+
+
+    public void HomePage(){
+
+    SceneManager.LoadScene("HomePage");
+
+    Time.timeScale=1;
+
+    }
+
 }
