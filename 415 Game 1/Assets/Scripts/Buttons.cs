@@ -12,6 +12,13 @@ public class Buttons : MonoBehaviour
     private int currentPageIndex =0; // Tracks the current page index
     [SerializeField] int maxPage;
 
+    //AudioController audioController;
+
+//    private void Awake()
+//     {
+//         audioController = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioController>();
+//     }
+
 
 
     // start the game

@@ -17,6 +17,8 @@ public class AudioController : MonoBehaviour
 
     public AudioClip theme;
 
+    public AudioClip button;
+
    
     
         public void Start(){
@@ -55,9 +57,8 @@ public class AudioController : MonoBehaviour
     public void PlayRivalSFX(){
 
       if (!SFXSource.isPlaying){
-        SFXSource.clip = audioClipRival;
-       
-        SFXSource.Play();
+            SFXSource.clip = audioClipRival;
+            SFXSource.Play();
       }
         
     }
@@ -67,7 +68,10 @@ public class AudioController : MonoBehaviour
         SFXSource.Pause();
     }
 
-   
+   public void ButtonSFX(){
+        SFXSource.clip = button;
+        SFXSource.Play();
+   }
 
 
 
