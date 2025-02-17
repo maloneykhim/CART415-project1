@@ -393,11 +393,11 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 38bd04083510a6b458e38cbb4cd5d116, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
-  Loop: 0
+  Loop: 1
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
@@ -490,7 +490,6 @@ GameObject:
   - component: {fileID: 215486545}
   - component: {fileID: 215486544}
   - component: {fileID: 215486543}
-  - component: {fileID: 215486546}
   m_Layer: 0
   m_Name: evil_girl_idle_4k_0
   m_TagString: Untagged
@@ -586,18 +585,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &215486546
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 215486542}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c5516a83ceb1ef74ebae9f24b58fac80, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &243711571
 GameObject:
   m_ObjectHideFlags: 0
@@ -782,7 +769,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.6320754, g: 0.46539316, b: 0.09242612, a: 0.24705882}
+  m_Color: {r: 0, g: 0, b: 0, a: 0.76862746}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -1366,6 +1353,53 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 716352867}
   m_CullTransparentMesh: 1
+--- !u!1 &812362273
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 812362275}
+  - component: {fileID: 812362274}
+  m_Layer: 0
+  m_Name: CharaManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &812362274
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 812362273}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5516a83ceb1ef74ebae9f24b58fac80, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  playerAnimator: {fileID: 215486543}
+  rivalAnimator: {fileID: 1208937939}
+  explosionAnimator: {fileID: 965800066}
+--- !u!4 &812362275
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 812362273}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 310.74298, y: 390.07495, z: -4.428453}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &918291192
 GameObject:
   m_ObjectHideFlags: 0
@@ -1643,7 +1677,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 1
+  m_SortingOrder: 2
   m_Sprite: {fileID: -857821383, guid: f9ec9e3dc10f945f3ba1764d540c46bf, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -1664,11 +1698,11 @@ Transform:
   m_GameObject: {fileID: 965800063}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 5.85, y: 5.85, z: 5.85}
+  m_LocalPosition: {x: 0, y: -1.83, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 1
   m_Children: []
-  m_Father: {fileID: 1749445074}
+  m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!95 &965800066
 Animator:
@@ -1702,7 +1736,6 @@ GameObject:
   - component: {fileID: 1208937941}
   - component: {fileID: 1208937940}
   - component: {fileID: 1208937939}
-  - component: {fileID: 1208937942}
   m_Layer: 0
   m_Name: good_girl_on_phone_4k_0
   m_TagString: Untagged
@@ -1798,18 +1831,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1208937942
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1208937938}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c5516a83ceb1ef74ebae9f24b58fac80, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &1420625129
 GameObject:
   m_ObjectHideFlags: 0
@@ -1868,7 +1889,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 5e0ac97669b284b12890cdbdc0f900e1, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 71fd9a2e90b9a4345a0964ddd3105022, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -2274,7 +2295,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 374dba80f39884dd9824297c20d1fee7, type: 3}
-  m_Color: {r: 0.7735849, g: 0.7735849, b: 0.7735849, a: 1}
+  m_Color: {r: 0.6839622, g: 0.6839622, b: 0.6839622, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -2441,7 +2462,6 @@ RectTransform:
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 965800065}
   - {fileID: 1982305990}
   - {fileID: 366344652}
   - {fileID: 689164466}
@@ -2682,7 +2702,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: f670373dc94df427988525ad2edaa2eb, type: 3}
+  m_Sprite: {fileID: 21300000, guid: f2ea2ba1073b0de44b118d1183ceeffb, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -2777,8 +2797,10 @@ SceneRoots:
   - {fileID: 1208937941}
   - {fileID: 215486545}
   - {fileID: 151530172}
+  - {fileID: 965800065}
   - {fileID: 1749445074}
   - {fileID: 2043358842}
   - {fileID: 1734945842}
   - {fileID: 1863222370}
   - {fileID: 666461518}
+  - {fileID: 812362275}

@@ -4,18 +4,24 @@ using UnityEngine.EventSystems;
 
 public class CharaController : MonoBehaviour
 {
-    Animator animator;
+    public Animator playerAnimator;
+
+    public Animator rivalAnimator;
+
+    public Animator explosionAnimator;
+    
     AudioController audioController;
 
-    private float minWaitTime = 2f;  // Minimum wait time before triggering
-    private float maxWaitTime = 10f; // Maximum wait time before triggering
-    private float minDuration = 1f;  // Minimum animation duration
-    private float maxDuration = 5f;  // Maximum animation duration
+   // private float minWaitTime = 2f;  // Minimum wait time before triggering sculpting animation
+   // private float maxWaitTime = 10f; // Maximum wait time before triggering sculpting animation
+    private float minDuration = 1f;  // Minimum sculpting animation duration
+    private float maxDuration = 5f;  // Maximum sculpting animation duration
 
     private float nextTriggerTime;
     private bool isSabotaging = false;
     private bool isSculpting = false;
     private bool isCaught = false;
+   // private bool isExploding = false;
 
     private void Awake()
     {
@@ -24,9 +30,11 @@ public class CharaController : MonoBehaviour
 
     void Start()
     {
-        animator = GetComponent<Animator>();
+        //playerAnimator = GetComponent<Animator>();
+        //rivalAnimator = GetComponent<Animator>();
         SetNextTriggerTime();
         StartCoroutine(CheckCaughtCondition());
+        explosionAnimator.gameObject.SetActive(false);
     }
 
     void Update()
@@ -42,17 +50,27 @@ public class CharaController : MonoBehaviour
         if (Input.GetMouseButton(0))
         {
             isSabotaging = true;
-            animator.SetBool("isSabotaging", true);
+            playerAnimator.SetBool("isSabotaging", true);
+
+            // isExploding = true;
+            explosionAnimator.gameObject.SetActive(true);
+            explosionAnimator.SetBool("isExploding", true);
+
             audioController.PlayPlayerSFX();
         }
         else
         {
             isSabotaging = false;
-            animator.SetBool("isSabotaging", false);
+            playerAnimator.SetBool("isSabotaging", false);
+
+            // isExploding = false;
+            explosionAnimator.gameObject.SetActive(false);
+            explosionAnimator.SetBool("isExploding", false);
         }
 
         if (Time.time >= nextTriggerTime)
         {
+         Debug.Log("trigger time");
             TriggerAnimation();
             SetNextTriggerTime();
         }
@@ -61,7 +79,7 @@ public class CharaController : MonoBehaviour
     void TriggerAnimation()
     {
         isSculpting = true;
-        animator.SetBool("isSculpting", true);
+        rivalAnimator.SetBool("isSculpting", true);
         audioController.PlayRivalSFX();
         Invoke(nameof(StopAnimation), Random.Range(minDuration, maxDuration));
     }
@@ -69,13 +87,14 @@ public class CharaController : MonoBehaviour
     void StopAnimation()
     {
         isSculpting = false;
-        animator.SetBool("isSculpting", false);
+        rivalAnimator.SetBool("isSculpting", false);
         audioController.StopSFX();
     }
 
     void SetNextTriggerTime()
     {
-        nextTriggerTime = Time.time + Random.Range(minWaitTime, maxWaitTime);
+        //nextTriggerTime = Time.time + Random.Range(minWaitTime, maxWaitTime);
+        nextTriggerTime = Time.time + (4f*Random.Range(1,5));
     }
 
     IEnumerator CheckCaughtCondition()
@@ -86,8 +105,7 @@ public class CharaController : MonoBehaviour
             {
                 Debug.Log("Caught!");
                 isCaught = true;
-                animator.SetBool("isCaught", true);
-                // You can add additional logic here for when the character is caught
+                playerAnimator.SetBool("isCaught", true);
             }
             yield return null;
         }
