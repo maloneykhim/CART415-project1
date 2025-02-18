@@ -21,8 +21,8 @@ public class Settings : MonoBehaviour
 
     void Start()
     {
-        ColorUtility.TryParseHtmlString("#FF7FF4", out musicEnabledColor); // Lime Green
-        ColorUtility.TryParseHtmlString("#989898", out musicDisabledColor); // Orange Red
+        ColorUtility.TryParseHtmlString("#FFFFFF", out musicEnabledColor); 
+        ColorUtility.TryParseHtmlString("#989898", out musicDisabledColor); 
     }
 
 
