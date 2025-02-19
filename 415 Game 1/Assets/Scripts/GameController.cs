@@ -13,8 +13,8 @@ public class GameController : MonoBehaviour
     float currentProgress = 0;
     float maxProgress = 20;
     [SerializeField] Image progressBar;
-    float decrement = 0.01f;
-    float increment = 0.01f;
+    float decrement = 0.0005f;
+    float increment = 0.002f;
 
     // not paused
     public bool timeIsRunning = true;
@@ -100,7 +100,7 @@ public class GameController : MonoBehaviour
         if (currentProgress == maxProgress) {
          
           // Debug.Log($"you win!");
-             SceneManager.LoadScene("Win");
+             SceneManager.LoadScene("Win01");
            // win condition
         }
 

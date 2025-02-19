@@ -24,6 +24,7 @@ public class AudioController : MonoBehaviour
         public void Start(){
 
         musicSource.clip = theme;
+        musicSource.volume = 0.1f;
         musicSource.Play();
     }
 
